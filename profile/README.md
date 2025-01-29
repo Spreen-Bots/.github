@@ -13,6 +13,8 @@ Somos una organización enfocada al [Discord](https://discord.com/invite/spreen)
 > <a href="https://git-scm.com/"><img src="https://img.icons8.com/ios-filled/30/f4511e/git.png"/></a>
 > <a href="https://www.mongodb.com/"><img src="https://img.icons8.com/color/30/000000/mongodb.png"/></a>
 > <a href="https://www.npmjs.com/"><img src="https://img.icons8.com/color/30/000000/npm.png"/></a>
+> <a href="https://ubuntu.com/"><img src="https://img.icons8.com/color/30/000000/ubuntu.png"/></a>
+> <a href="https://pterodactyl.io/"><img src="https://img.icons8.com/color/30/000000/pterodactyl.png"/></a>
 
 ## Contactanos
 <a href="https://discord.com/invite/spreen"><img src="https://img.shields.io/badge/-Discord-000000?style=flat-square&labelColor=000000&logo=discord&logoColor=5568f2&link=https://discord.com/users/461273822360895491" alt="Discord Badge"/></a>
