@@ -1,4 +1,4 @@
-<img src="https://github.com/SpreenTeam/SpreenTeam/raw/main/banner.png" width="960" heigh="540">
+<img src="https://raw.githubusercontent.com/SpreenTeam/.github/main/a_ce7573bec8ce60069525c65f50111a07.png" width="960" heigh="540">
 
 ## Equipo de desarrollo del [Discord](https://discord.com/invite/spreen) de spreen
 Somos una organización enfocada al [Discord](https://discord.com/invite/spreen) de Spreen, con nuestro equipo de programación buscamos dar una mejor experiencia a toda la comunidad con nuestros inventos y dinámicas.
