@@ -4,38 +4,17 @@
 
 Somos una organización de desarrolladores que trabajan juntos para crear y dar soporte a proyectos principalmente relacionados con el [Discord](https://discord.com/invite/spreen)  de Spreen. Nuestro objetivo como equipo es dar una mejor experiencia a toda la comunidad e innovar en las funciones que tienen generalmente los bots de Discord.
 
-### Lenguajes y herramientas que utilizamos
-
-<a href="https://javascript.com/">
-    <img title="JavaScript" alt="JavaScript" src="https://img.icons8.com/color/30/000000/javascript.png"/>
-</a>
-<a href="https://typescriptlang.org/">
-    <img title="TypeScript" alt="TypeScript" src="https://img.icons8.com/color/30/000000/typescript.png"/>
-</a>
-<a href="https://www.python.org/">
-    <img title="Python" alt="Python" src="https://img.icons8.com/color/30/000000/python.png"/>
-</a>
-<a href="https://nodejs.org/en/">
-    <img title="Node.js" alt="Node.js" src="https://img.icons8.com/windows/30/4caf50/node-js.png"/>
-</a>
-<a href="https://git-scm.com/">
-    <img title="Git" alt="Git" src="https://img.icons8.com/ios-filled/30/f4511e/git.png"/>
-</a>
-<a href="https://www.mongodb.com/">
-    <img title="MongoDB" alt="MongoDB" src="https://img.icons8.com/color/30/000000/mongodb.png"/>
-</a>
-<a href="https://www.npmjs.com/">
-    <img title="npm" alt="npm" src="https://img.icons8.com/color/30/000000/npm.png"/>
-</a>
-<a href="https://ubuntu.com/">
-    <img title="Ubuntu" alt="Ubuntu" src="https://img.icons8.com/color/30/000000/ubuntu.png"/>
-</a>
-<a href="https://pterodactyl.io/">
-    <img title="Pterodactyl" alt="Pterodactyl" src="https://img.icons8.com/color/30/000000/pterodactyl.png"/>
-</a>
-
 ### Proyectos
-Entre los proyectos destacados que hemos desarrollado se encuentran bots de moderación, nivelación, actividad semanal, sistema de tickets, entre otros.
+
+A lo largo del tiempo, hemos desarrollado una variedad de herramientas personalizadas para Discord, orientadas a mejorar la gestión y la experiencia dentro de las comunidades. Algunos de nuestros proyectos incluyen:
+
+- Sistemas de moderación y automoderación
+- Sistemas de nivelación y actividad semanal
+- Sistemas de tickets para soporte
+- Sistemas de notificaciones de Twitch, Kick y YouTube
+- Entre otros...
+
+⚠️ Todos estos proyectos son de código privado y se encuentran en uso activo dentro de nuestros servidores.
 
 ### Contáctanos
 
