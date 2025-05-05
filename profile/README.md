@@ -2,9 +2,10 @@
 
 <img alt="Banner" src="../banner.png" width="1024" height="499">
 
-Somos una organización de desarrolladores que trabajan juntos para crear y dar soporte a proyectos principalmente relacionados con el [Discord de Spreen](https://discord.com/invite/spreen). Nuestro objetivo como equipo es dar una mejor experiencia a toda la comunidad e innovar en las funciones que tienen generalmente los bots de Discord.
+Somos una organización de desarrolladores que trabajan juntos para crear y dar soporte a proyectos principalmente relacionados con el [Discord](https://discord.com/invite/spreen)  de Spreen. Nuestro objetivo como equipo es dar una mejor experiencia a toda la comunidad e innovar en las funciones que tienen generalmente los bots de Discord.
 
 ### Lenguajes y herramientas que utilizamos
+
 <a href="https://javascript.com/">
     <img title="JavaScript" alt="JavaScript" src="https://img.icons8.com/color/30/000000/javascript.png"/>
 </a>
@@ -33,7 +34,14 @@ Somos una organización de desarrolladores que trabajan juntos para crear y dar 
     <img title="Pterodactyl" alt="Pterodactyl" src="https://img.icons8.com/color/30/000000/pterodactyl.png"/>
 </a>
 
+### Proyectos
+Entre los proyectos destacados que hemos desarrollado se encuentran bots de moderación, nivelación, actividad semanal, sistema de tickets, entre otros.
+
 ### Contáctanos
+
 <a href="https://discord.com/invite/spreen">
-    <img title="Contacto" src="https://img.shields.io/badge/-Discord-000000?style=flat-square&labelColor=000000&logo=discord&logoColor=5568f2&link=https://discord.com/users/461273822360895491" alt="Discord Badge"/>
+    <img src="https://img.shields.io/badge/-Discord-000000?style=flat-square&labelColor=000000&logo=discord&logoColor=5568f2" alt="Discord Badge" style="display: inline-block; vertical-align: middle;"/>
+</a>
+<a href="https://x.com/ModSpreen">
+    <img src="https://img.shields.io/badge/-X-000000?style=flat-square&labelColor=000000&logo=x&logoColor=1da1f2" alt="X Badge" style="display: inline-block; vertical-align: middle;"/>
 </a>
